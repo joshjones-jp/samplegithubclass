@@ -1,2 +1,2 @@
 # samplegithubclass
-We are exploring how repositories work :D
+We are exploring how repositories work 🤖
