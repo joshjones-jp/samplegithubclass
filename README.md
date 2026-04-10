@@ -1,2 +1,2 @@
 # samplegithubclass
-We are exploring how repositories work :D
+レポジトリがどの動きをするのか勉強しています😄
