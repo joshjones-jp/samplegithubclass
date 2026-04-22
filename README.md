@@ -1,4 +1,5 @@
 # samplegithubclass
+レポジトリがどの動きをするのか勉強しています😄
 
 We are exploring how repositories work 🤖
 
